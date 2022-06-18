@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Chidubemcodes
 - 👀 I’m interested in ...blockchain
-- 🌱 I’m currently learning ...solidity
 - 💞️ I’m looking to collaborate on ...Api,webdevelopment,blockchain dev,nft
 - 📫 How to reach me ...okaforchidubem7@gmail.com
 
